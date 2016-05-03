@@ -1,0 +1,35 @@
+#wrapper { 
+	width: 60%; 
+	margin: 0 auto; 
+	padding: 48px 0 72px; 
+}
+
+body { 
+	background: #333333; 
+	margin: 0; padding: 0; 
+	font-family: Arial, sans serif;
+}
+
+.white {
+	background-color: rgba(255, 255, 255, .7);
+	padding: 5px;
+}
+
+h1 {
+	font-family: 'Alfa Slab One', Arial, sans serif;
+	text-align: center;
+	color: #ffffff;
+	display: inline;
+	font-size: 300%;
+
+}
+
+.header {
+	display: flex;
+  	align-items: center;
+}
+
+
+
+
+
